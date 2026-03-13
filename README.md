@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on deep learning for bioinformatics
+- 🌱 I’m currently studying cs/math and qse at yale
+- 👯 I’m looking to collaborate on sde projects
+- 🤔 I’m looking for career advice
+- 💬 Ask me about my digital product etsy shop
+- 📫 How to reach me: dm me on linkedin
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: i play the viola da gamba
 <!--
 **eyt44/eyt44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
