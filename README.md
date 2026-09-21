@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 📱 I’m currently working on a mobile app for Fresh Lifelines for Youth (FLY) as an SWE Volunteer for Develop for Good
-- 🌱 I’m currently studying CS/Math and Global Affairs at Yale
+- 🌱 I’m currently studying Statistics & Data Science at Yale
 - 👯 I’m looking to collaborate on SDE projects
 - 🤔 I’m looking for career advice
 - 💬 Ask me about my digital product Etsy shop
