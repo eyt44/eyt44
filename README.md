@@ -1,12 +1,6 @@
 ## Hi there 👋
-- 📱 I’m currently working on a mobile app for Fresh Lifelines for Youth (FLY) as an SWE Volunteer for Develop for Good
 - 🌱 I’m currently studying Statistics & Data Science at Yale
-- 👯 I’m looking to collaborate on SDE projects
-- 🤔 I’m looking for career advice
-- 💬 Ask me about my digital product Etsy shop
-- 📫 How to reach me: DM me on LinkedIn
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I play the viola da gamba
 <!--
 **eyt44/eyt44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
